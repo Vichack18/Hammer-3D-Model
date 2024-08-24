@@ -1,0 +1,1 @@
+Hi! This is a Hammer 3D Model that I made on Autodesk Fusion 360. I've shared in this repo a .stl file so feel free to use it! You can open the project with Solidworks, ThinkerCAD, Meshmixer and others 3D viewers.
